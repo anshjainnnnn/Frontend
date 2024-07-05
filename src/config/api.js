@@ -1,6 +1,6 @@
 
 import axios from 'axios';
-const LOCALHOST='http://localhost:5454'
+const LOCALHOST='https://backend-1-tp8n.onrender.com'
 
 export const API_BASE_URL = LOCALHOST;
 
